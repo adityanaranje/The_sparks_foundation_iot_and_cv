@@ -1,2 +1,3 @@
-Task-1 Color Detection
-Task=2 Object Detection
+## 1 Task-1 Color Detection
+
+## 2 Task-2 Object Detection
